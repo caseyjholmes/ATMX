@@ -1,4 +1,5 @@
 # ATMX
 4HP Eurorack Attenumixer/multiple.
 
-back soon. being updated. 
+Mix. Attenuate. Multply. Add. Subtract. Cheap, Easy!
+Better than using multiples alone!
